@@ -839,7 +839,7 @@ button:focus {
    ========================================================================== */
 #testimonial {
   margin-bottom: 270px;
-  background: url(../img/bg/testimonial-bg.jpg) no-repeat center center;
+  background: url(https://superss.net/wp-content/uploads/2020/06/frontech_slide1.jpg) no-repeat center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -1391,6 +1391,7 @@ button:focus {
 
 /* ==========================================================================
    Footer section
+
    ========================================================================== */
 #footer-Content {
   padding-top: 130px;
